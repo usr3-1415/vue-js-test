@@ -1,0 +1,19 @@
+{
+    "name": "Vue.js Development",
+    "build": {
+        "context": "..",
+        "dockerfile": "Dockerfile"
+    },
+    
+    "appPort": "8081:8080",
+    "customizations": {
+        "vscode": {
+          "extensions": [
+            "dbaeumer.vscode-eslint",
+            "octref.vetur",
+            "github.copilot"
+          ]
+        }
+      }
+    
+}
