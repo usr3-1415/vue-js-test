@@ -9,6 +9,7 @@
     "customizations": {
         "vscode": {
           "extensions": [
+            "vue.volar",
             "dbaeumer.vscode-eslint",
             "octref.vetur",
             "github.copilot"
