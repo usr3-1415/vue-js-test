@@ -12,6 +12,6 @@ RUN npm install -g @vue/cli
 
 #to create an empty vue project run
 #vue create .
-#vue add typescript
+#vue add typescript --dev
 
 CMD ["bash"]
