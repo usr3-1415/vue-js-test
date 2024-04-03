@@ -9,4 +9,8 @@ WORKDIR /app
 RUN npm install -g @vue/cli
 
 # Command to run your app using CMD which defines your runtime
+
+#to create an empty vue project run
+#vue create .
+
 CMD ["bash"]
